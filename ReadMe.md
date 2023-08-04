@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, eu sou @WoodyWell<br>🔭 Iniciante no mundo da programação<br>🌱 Estou aprendendo Python<br>👀 Pretendo me tornar um desenvolvedor Full Stack<br>🤝 Aberto para colaboração
+👋 Olá, eu sou @WoodyWell<br>🔭 Iniciante no mundo da programação<br>🌱 Estou aprendendo Python<br>👀 Futuro dev Full Stack<br>🤝 Aberto para colaboração
 
 
 ## 🌐 Socials:

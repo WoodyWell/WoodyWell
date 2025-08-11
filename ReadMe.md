@@ -1,15 +1,42 @@
-# 💫 About Me:
-👋 Olá, seja bem-vindo!<br>🔭 Sou estudante iniciante no mundo da programação<br>🌱 Estou aprendendo Python, HTML, CSS e JavaScript<br>🤝 Aberto para colaboração
+# 👋 Olá, eu sou o Wellington Ferreira!
 
+💻 Aspirante a **Desenvolvedor Front-End**  
+📚 Atualmente aprendendo **HTML5**, **CSS3** e **JavaScript**  
+🐍 Estudando **Python** de forma paralela  
+🚀 Focado em construir projetos criativos e funcionais  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonfgs) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WoodyWell&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WoodyWell&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WoodyWell&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tecnologias e Ferramentas
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WoodyWell&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoodyWella&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🌱 Em aprendizado constante
+- Construir projetos com **HTML5**, **CSS3** e **JavaScript**
+- Criar scripts úteis com **Python**
+- Aprender **Boas Práticas** e **Versionamento com Git/GitHub**
+
+---
+
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonfgs/)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wellingtonfgs@outlook.com.br)
+
+---
+
+> “A prática leva à perfeição, e a curiosidade leva à inovação.”
+
